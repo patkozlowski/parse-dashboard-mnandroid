@@ -1,6 +1,6 @@
 {
   "name": "parse-dashboard-heroku",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Deploy Parse Dashboard to Heroku",
   "main": "index.js",
   "repository": {
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/didierfranc/parse-dashboard-heroku#readme",
   "dependencies": {
-    "parse-dashboard": "^1.0.10"
+    "parse-dashboard": "^1.1.0"
   },
   "scripts": {
     "start": "./node_modules/parse-dashboard/bin/parse-dashboard"
